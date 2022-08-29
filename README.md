@@ -9,7 +9,7 @@ The game includes multiple levels in different difficultis, and the user can cho
 
 First and easiest level:
 
-![2022-08-29 (2)](https://user-images.githubusercontent.com/112382087/187161854-0ded3399-e126-4df8-9ed5-8a373c2194c9.png)
+![צילום מסך 2022-08-29 114505](https://user-images.githubusercontent.com/112382087/187164415-d4ef988a-4e63-4dc7-88bc-0a8e6a1ccf71.png)
 
 Second level:
 
